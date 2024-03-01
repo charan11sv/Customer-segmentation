@@ -1,1 +1,1 @@
-# Customer-segmentation
+# This is a customer segementation project done on the dataset obtained from kaggle. Here we tried to identify useful patterns and bussiness insights in data using the Standard EDA and also cluster analysis and tried to find out any hidden patterns available in the data.
